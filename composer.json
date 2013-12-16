@@ -10,10 +10,11 @@
 		"source":   "https://github.com/kohenkatz/kohana-assetic"
 	},
 	"require": {
-		"composer/installers":   "~1.0",
-		"kohana/core":           ">=3.3",
-		"php":                   ">=5.3.3",
-		"kriswallsmith/assetic": "dev-master"
+		"composer/installers":         "~1.0",
+		"kohana/core":                 ">=3.3",
+		"php":                         ">=5.3.3",
+		"kriswallsmith/assetic":       "dev-master",
+		"packagist/yuicompressor-bin": "dev-master"
 	},
 	"extra": {
 		"branch-alias": {
